@@ -1,5 +1,3 @@
-# portfolio
-Personal portfolio showcasing projects in AI, IoT, Edge AI, and Electrical Engineering.
 # 🌐 Raciel David Lago – Professional Portfolio
 
 Welcome to my personal portfolio repository.  
@@ -17,9 +15,7 @@ This portfolio is designed to:
 - 🧑‍💻 My professional profile, technical blog, and academic contributions.  
 
 ## ✨ About Me
-I’m **Raciel David Lago**, an Electrical Engineer, AI & IoT Developer, and Professor of Electrical Engineering at the University of Oriente (Cuba).  
-My specialization lies in **AI applied to Electrical Engineering and Sustainable Development**.  
-My personal brand: *"Shaping the Future with Smart Solutions."*  
+“I am an Electrical Engineer and AI researcher from Cuba, specialized in AIoT, Edge AI, and smart energy systems. My work combines applied research with real-world engineering to build sustainable, intelligent solutions.  
 
 ---
 
